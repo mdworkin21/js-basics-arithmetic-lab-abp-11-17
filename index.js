@@ -15,4 +15,4 @@ Number.isInteger(currentAge);
 
 const randomNumber = Math.floor(Math.random() * 20) + 1;
 
-const randomInteger = Math.floor()
+const randomInteger = Math.floor(randomNumber)
