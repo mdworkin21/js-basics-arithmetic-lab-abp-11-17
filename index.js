@@ -11,5 +11,4 @@ const newID = 1000000000 + oldID
 
 const ageIsValid = true
 
-Number.isInteger()
-
+Number.isInteger(currentAge)
