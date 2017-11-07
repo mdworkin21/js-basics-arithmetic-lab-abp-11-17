@@ -11,4 +11,4 @@ const newID = 1000000000 + oldID
 
 const ageIsValid = true
 
-const currentAge = false
+//const currentAge = false
