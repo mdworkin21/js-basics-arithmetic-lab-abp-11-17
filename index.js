@@ -16,3 +16,5 @@ Number.isInteger(currentAge);
 const randomNumber = Math.floor(Math.random() * 20) + 1;
 
 const randomInteger = Math.floor(randomNumber)
+
+const randomUserID = Math.floor(1000000001) && Math.ceil(1000000020)
